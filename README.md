@@ -2,4 +2,4 @@
 OpenBSD wifi manager
 ------------------------
 - Usage:
-        sh wimgr.sh <SSID> <Password>
+        sh wimgr.sh SSID Password
