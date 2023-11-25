@@ -1,0 +1,2 @@
+# wimgr
+OpenBSD wifi manager
